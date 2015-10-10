@@ -1,0 +1,4 @@
+                                          LIBRARY RECORD
+
+first book -> david_copperfield -> harry_potter -> brida -> last book
+last book <- brida <- harry_potter <- david_copperfield <- first book
